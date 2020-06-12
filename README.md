@@ -9,7 +9,7 @@ A Risk Prediction model to detect the mortality of the patients. The dataset use
 **Random Forest:** Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. <br>
 More information can be found [here](https://www.researchgate.net/profile/Andy_Liaw/publication/228451484_Classification_and_Regression_by_RandomForest/links/53fb24cc0cf20a45497047ab/Classification-and-Regression-by-RandomForest.pdf)
 
-**SHAP (SHapley Additive exPlanations):** It is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions. 
+**SHAP (SHapley Additive exPlanations):** It is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions.  <br>
 More information can be found [here](https://shap.readthedocs.io/en/latest/)
 
 ## Getting Started
